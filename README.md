@@ -17,3 +17,7 @@ A production-style AI application built using Python, FastAPI, and LangChain tha
 
 ## Use Case
 Enterprise knowledge assistants, internal documentation search, AI-powered helpdesks.
+how to run:
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
